@@ -31,6 +31,11 @@ Para isso deves criar uma conta em https://forum.cfx.re
 
 2- Cria a pasta "FXServer" no teu ambiente de trabalho 
 
-3-
+3- Extrai o conteúdo dos "Artifacts" para dentro da "FXServer" de modo a que os ficheiros fiquem na raiz da pasta.
 
-4-
+4- Extrai a pasta "Resources" para dentro da "FXServer" de modo a teres a pasta "resources" dentro da "FXServer", ou seja, "FXServer/resources".
+
+5- Coloca o server.cfg dentro da pasta "FXServer", ou seja, FXServer/server.cfg
+
+6- Edita o ficheiro server.cfg adicionando a tua key gerada no primeiro passo, e a Steam apikey em https://steamcommunity.com/dev/apikey .
+7- Abre o ficheiro FXServer.exe e de seguida o run.cmd
