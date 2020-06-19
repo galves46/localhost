@@ -38,4 +38,10 @@ Para isso deves criar uma conta em https://forum.cfx.re
 5- Coloca o server.cfg dentro da pasta "FXServer", ou seja, FXServer/server.cfg
 
 6- Edita o ficheiro server.cfg adicionando a tua key gerada no primeiro passo, e a Steam apikey em https://steamcommunity.com/dev/apikey .
-7- Abre o ficheiro FXServer.exe e de seguida o run.cmd
+
+7- Abre o bloco de notas e cria um ficheiro com o nome "run" e a extenção ".cmd" e adiciona esse texto. Deves substituir o XXXXXXXXX pelo nome do teu utilizador. Para saberes isso podes abrir as propriedades de qualquer ficheiro no teu ambiente de trabalho e verás lá o nome correto na Localização.
+
+Conteúdo do "run.cmd":
+
+cd C:\Users\XXXXXXXXX\Desktop\FxServer
+C:\Users\XXXXXXXXX\Desktop\FxServer\FXServer.exe +exec server.cfg
