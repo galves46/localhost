@@ -29,6 +29,9 @@ https://github.com/galves46/cfx-server-data
 https://keymaster.fivem.net/
 Para isso deves criar uma conta em https://forum.cfx.re
 
+Em alternativa aos passos 2, 3, 4, 5 e 7.1 podes fazer o download da pasta FXServer e arrastar-la para o teu ambiente de trabalho e avançar para o passo número 6.
+https://drive.google.com/file/d/10fM1_Nkm90W4WS2XkUp6Pv7blDc-w76S/view?usp=sharing
+
 2- Cria a pasta "FXServer" no teu ambiente de trabalho 
 
 3- Extrai o conteúdo dos "Artifacts" para dentro da "FXServer" de modo a que os ficheiros fiquem na raiz da pasta.
@@ -39,7 +42,9 @@ Para isso deves criar uma conta em https://forum.cfx.re
 
 6- Edita o ficheiro server.cfg adicionando a tua key gerada no primeiro passo, e a Steam apikey em https://steamcommunity.com/dev/apikey .
 
-7- Abre o bloco de notas e cria um ficheiro com o nome "run" e a extenção ".cmd" e adiciona esse texto. Deves substituir o XXXXXXXXX pelo nome do teu utilizador. Para saberes isso podes abrir as propriedades de qualquer ficheiro no teu ambiente de trabalho e verás lá o nome correto na Localização.
+7.1 Abre o bloco de notas e cria um ficheiro com o nome "run" e a extenção ".cmd" e adiciona esse texto. 
+
+7.2 Deves substituir o XXXXXXXXX pelo nome do teu utilizador. Para saberes isso podes abrir as propriedades de qualquer ficheiro no teu ambiente de trabalho e verás lá o nome correto na Localização.
 
 Conteúdo do "run.cmd":
 
