@@ -23,7 +23,7 @@ https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
 Resources:
 https://github.com/galves46/cfx-server-data
 
--Instructions:
+-Instruções:
 
 1- Gerar uma key introduzindo o teu IP e selecionando a opção Home Hosted (para Localhost! No caso de queres uma key para o teu servidor público deves selecionar uma das outras opções, sendo que os sevidores alojados na Zap-hosting não necessitam de uma key.)
 https://keymaster.fivem.net/
