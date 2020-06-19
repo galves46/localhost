@@ -51,6 +51,6 @@ Conteúdo do "run.cmd":
 cd C:\Users\XXXXXXXXX\Desktop\FxServer
 C:\Users\XXXXXXXXX\Desktop\FxServer\FXServer.exe +exec server.cfg
 
-8- Abrir o "FXServer.exe" seguido do "run.cmd"
+8- Abrir o "FXServer.exe" seguido do "run.cmd". Abres o FiveM e na aba History escreves localhost.
 
 9- Have Fun
