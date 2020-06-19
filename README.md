@@ -19,6 +19,7 @@ https://docs.fivem.net/docs/server-manual/setting-up-a-server/
 
 Artifacts:
 https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
+
 Resources:
 https://github.com/galves46/cfx-server-data
 
