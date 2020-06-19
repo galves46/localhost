@@ -40,7 +40,7 @@ https://drive.google.com/file/d/10fM1_Nkm90W4WS2XkUp6Pv7blDc-w76S/view?usp=shari
 
 5- Coloca o server.cfg dentro da pasta "FXServer", ou seja, FXServer/server.cfg
 
-6- Edita o ficheiro server.cfg adicionando a tua key gerada no primeiro passo, e a Steam apikey em https://steamcommunity.com/dev/apikey .
+6- Edita o ficheiro server.cfg adicionando a tua key gerada no primeiro passo, e a Steam apikey em https://steamcommunity.com/dev/apikey , também aqui escolhes o nome e tags para o teu servidor entre outras coisas.
 
 7.1 Abre o bloco de notas e cria um ficheiro com o nome "run" e a extenção ".cmd" e adiciona esse texto. 
 
