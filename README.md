@@ -1,6 +1,7 @@
 # localhost
 Toturial para a crição de um servidor FiveM em localhost compatível com qualquer framework. Estes são os ficheiros usados no tutorial.
 
+Tutorial: https://www.twitch.tv/videos/655370057
 
 Suporte em português: https://discord.gg/SpERma7
 
